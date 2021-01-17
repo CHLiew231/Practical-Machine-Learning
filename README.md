@@ -1,3 +1,3 @@
 # Practical-Machine-Learning
 
-# Please view my file in pdf. thank you
+# Please view my results using the pdf version. thank you
